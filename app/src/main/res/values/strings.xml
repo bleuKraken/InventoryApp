@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">InventoryApp</string>
+
+    <!-- Settings -->
+    <!-- Menu option to populate list of items  [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <!-- Title for the activity to add a new item [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_item">Add Item</string>
+
+    <!-- Category Section -->
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <!-- Name of product. -->
+    <string name="category_overview">Product Name</string>
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_condition">Condition</string>
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+    <string name="phone_number">Phone number</string>
+    <string name="product_supplier"> Product Supplier</string>
+
+    <!-- Hints -->
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_name">Name</string>
+    <!-- Text hint for breed field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_supplier">Supplier Name</string>
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_price">0.00</string>
+    <!-- Hint of phone number.-->
+    <string name="hint_phone_number">1234567890</string>
+
+    <!-- for dropdown menu of item condition. AKA spinner. -->
+    <string name="condition_new">New</string>
+    <string name="condition_used">Used</string>
+    <string name="condition_old">Old</string>
+
+
+
+    <!-- Item price [CHAR LIMIT=5] -->
+    <string name="item_price">$</string>
+    <!-- Quantity icon. -->
+    <string name="quantity_icon">#</string>
+    <!-- Label for editor menu option to save and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+    <!-- Product Quantity count. -->
+    <string name="quantity">Quantity</string>
+
+</resources>
